@@ -1,6 +1,6 @@
 # 🌆 Urban Heat Island (UHI) Prediction in NYC
-code:
-repoort:
+**Code**:[Stallite Image](
+**Repoort**:
 
 ## 📌 Project Overview
 This project analyzes the **Urban Heat Island (UHI) effect** in New York City using **machine learning** and **Sentinel-2 satellite imagery** to identify temperature hotspots and key environmental factors.
