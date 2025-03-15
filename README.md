@@ -58,9 +58,5 @@ This project also integrates **Sentinel-2 Level-2A satellite imagery** using **M
 - **Adopt Cool Materials:** Use reflective and permeable surfaces to minimize heat retention.
 - **Enhance Urban Planning:** Leverage satellite data for real-time monitoring and mitigation strategies.
 
-## 📎 Additional Information
-- **Research Contribution:** Supports **Sustainable Cities (SDG 11)** & **Climate Action (SDG 13)**.
-- **Future Work:** Extend study to other cities, integrate climate variables, and refine predictive models.
-
 📌 **Check out the full report and code to explore UHI dynamics in NYC!**
 
