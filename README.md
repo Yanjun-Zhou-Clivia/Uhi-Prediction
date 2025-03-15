@@ -1,6 +1,6 @@
 # 🌆 Urban Heat Island (UHI) Prediction in NYC
-**Code**:[Stallite Image](
-**Repoort**:
+**Code**:[Stallite imagery](https://github.com/Yanjun-Zhou-Clivia/Uhi-Prediction/blob/main/Sentinel-2%20satellite%20imagery.ipynb) [Uni_Prediction_code](https://github.com/Yanjun-Zhou-Clivia/Uhi-Prediction/blob/main/Uni_Prediction_code.ipynb)
+**Repoort**: [Uni Prediction report](https://github.com/Yanjun-Zhou-Clivia/Uhi-Prediction/blob/main/Uni_Prediction_Report.pdf)
 
 ## 📌 Project Overview
 This project analyzes the **Urban Heat Island (UHI) effect** in New York City using **machine learning** and **Sentinel-2 satellite imagery** to identify temperature hotspots and key environmental factors.
