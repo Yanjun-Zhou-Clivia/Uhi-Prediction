@@ -1,5 +1,5 @@
 # 🌆 Urban Heat Island (UHI) Prediction in NYC
-**Code**:[Stallite imagery](https://github.com/Yanjun-Zhou-Clivia/Uhi-Prediction/blob/main/Sentinel-2%20satellite%20imagery.ipynb),
+**Code**: [Stallite imagery](https://github.com/Yanjun-Zhou-Clivia/Uhi-Prediction/blob/main/Sentinel-2%20satellite%20imagery.ipynb),
 [Uni_Prediction_code](https://github.com/Yanjun-Zhou-Clivia/Uhi-Prediction/blob/main/Uni_Prediction_code.ipynb)
 
 **Repoort**: [Uni Prediction report](https://github.com/Yanjun-Zhou-Clivia/Uhi-Prediction/blob/main/Uni_Prediction_Report.pdf)
